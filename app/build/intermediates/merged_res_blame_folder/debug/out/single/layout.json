@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/activity_splash.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/fragment_bookmarks.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/fragment_search.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.itworkxnews.app-mergeDebugResources-54:/layout/activity_choose.xml",
+        "source": "com.example.itworkxnews.app-main-57:/layout/activity_choose.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/item_new_row.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/item_new_row.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/fragment_news.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/fragment_new_detail.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/fragment_new_detail.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/activity_choose.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/activity_choose.xml"
+    },
+    {
+        "merged": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-mergeDebugResources-54:/layout/item_last_search_row.xml",
+        "source": "/Users/howidahani/.gradle/daemon/7.6/com.example.itworkxnews.app-main-57:/layout/item_last_search_row.xml"
+    }
+]

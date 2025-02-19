@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.example.itworkxnews.presentation.views.news.NewsFragmentDirections","com.example.itworkxnews.presentation.views.search.SearchFragmentDirections","com.example.itworkxnews.presentation.views.bookmarks.BookmarksFragmentDirections","com.example.itworkxnews.presentation.views.new_details.NewDetailFragmentArgs"]}]
